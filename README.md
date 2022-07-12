@@ -1,5 +1,5 @@
 # Dice_Rolling_Simulator
-This is a dice simulator game with which you can play with your friends, enter your name and your friend's name, set the game time and roll your dice, I hope you like it
+This is a dice simulator game that you can play with your friends, enter your name and your friend's name, set the time and roll your dice, I hope you like it
 
 
 ## Requires
